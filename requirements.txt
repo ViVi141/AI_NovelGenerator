@@ -13,4 +13,4 @@ numpy==2.3.2
 openai==1.106.1
 protobuf==5.29.5
 requests==2.32.5
-wheel==0.45.1
+wheel==0.46.2
