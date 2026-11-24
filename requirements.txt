@@ -1,5 +1,5 @@
 azure-ai-inference==1.0.0b9
-azure-core==1.35.0
+azure-core==1.38.0
 chromadb==1.0.20
 customtkinter==5.2.2
 google-auth==2.49.0
